@@ -8,7 +8,7 @@ This Repository is corpus data of "[佐倉としたい大西](https://www.onsen.
 - Line feed code is CRLF or LF (CRLF is better)
 
 ### BODY
-- Write it in one line until the change of speaker and corner
+- Write it in one line until the change of speaker or topic
 - A line consists of a speaker and a word
 - Speakers and words are separated by Tab (```\t```)
 
